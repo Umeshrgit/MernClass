@@ -21,6 +21,7 @@
     "@tabler/icons-react": "^3.34.0",
     "@tanstack/react-query": "^5.80.7",
     "axios": "^1.9.0",
+    "bz-mern-fullstack-app": "file:..",
     "jwt-decode": "^4.0.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
